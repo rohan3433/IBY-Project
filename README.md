@@ -57,5 +57,4 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/vibe-talk.git
-   cd vibe-talk
+   git clone https://github.com/rohan3433/IBY-Project.git

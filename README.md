@@ -23,6 +23,15 @@
 - **WebSocket-based Communication**: Built using Socket.io for reliable real-time updates.
 - **Scalable Design**: Optimized for high-traffic environments with optional Redis session management for WebSocket scaling.
 
+## Preview
+
+Here are some preview images of the Vibe Talk application:
+
+![Login Page](images/login-page.png)
+![Chat Interface](images/chat-interface.png)
+![Registration Page](images/registration-page.png)
+
+
 ## Technology Stack
 
 ### Front-End

@@ -36,6 +36,8 @@ Registration Page
 Chat Page
 ![Chat Interface](Screenshots/ChatPage.png)
 
+Group Chat Availability
+![Group chat Interface](Screenshots/GroupChat.png)
 
 
 ## Technology Stack

@@ -27,10 +27,13 @@
 
 Here are some preview images of the Vibe Talk application:
 
-#Login Page : -
+Login Page : -
 ![Login Page](Screenshots/LoginPage.png)
 
+Registration Page
 ![Registration Page](Screenshots/SignUpPage.png)
+
+Chat Page
 ![Chat Interface](Screenshots/ChatPage.png)
 
 

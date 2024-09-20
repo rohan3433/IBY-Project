@@ -4,7 +4,7 @@
 
 
 - **Project Name**: Vibe Talk
-- **Candidate Name**: Rohan Gupta
+- **Name**: Rohan Gupta
 - **University**: Indian Institute of Technology Jodhpur
 - **Department**: Metallurgical and Materials Engineering
 - **Application Purpose**: This project was developed to showcase my abilities in building a scalable, real-time web application, and to illustrate my understanding of modern web technologies and software design principles.

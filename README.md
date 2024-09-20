@@ -79,6 +79,20 @@ The app uses MongoDB as the database. If you’re using MongoDB Atlas, make sure
 ## API Documentation
 The backend provides several RESTful API endpoints for user authentication and message handling:
 
+### Authentication
+- **POST /api/auth/register**  
+  Registers a new user with email and password.
+
+- **POST /api/auth/login**  
+  Authenticates a user and returns a JWT for session management.
+
+### Messaging
+- **GET /api/messages**  
+  Retrieves the chat history for authenticated users.
+
+- **POST /api/messages**  
+  Sends a new message to the chat room.
+
 ### WebSocket Events
 - **Message Event**  
   Sends and receives real-time messages between users.

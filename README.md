@@ -43,18 +43,17 @@
 - **JWT (JSON Web Tokens)**: Secure token-based authentication for user sessions.
 - **Bcrypt.js**: Password hashing for secure credential storage.
 
-### Optional Add-ons
-- **Redis**: In-memory data store used for WebSocket session management and scaling across multiple instances.
 
 ## Installation
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/en/) (v14 or higher)
 - [MongoDB](https://www.mongodb.com/) (Local or Atlas cloud instance)
-- Optional: [Redis](https://redis.io/) (if using Redis for session management)
 
 ### Installation Steps
 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/rohan3433/IBY-Project.git
+2. **hello
+

@@ -3,11 +3,7 @@
 **Vibe Talk** is a feature-rich, real-time messaging platform designed to provide seamless and dynamic communication experiences. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, **Vibe Talk** integrates modern web technologies to offer real-time chat functionality with plans for interactive, vibe-based visual enhancements.
 
 
-- **Project Name**: Vibe Talk
-- **Name**: Rohan Gupta
-- **University**: Indian Institute of Technology Jodhpur
-- **Department**: Metallurgical and Materials Engineering
-- **Application Purpose**: This project was developed to showcase my abilities in building a scalable, real-time web application, and to illustrate my understanding of modern web technologies and software design principles.
+
 
 ## Table of Contents
 - [Features](#features)
